@@ -1,0 +1,6 @@
+{
+  "name": "CodeEngine",
+  "description": "Cartão de visita digital premium para a empresa de tecnologia CodeEngine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
